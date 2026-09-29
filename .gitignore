@@ -1,1 +1,7 @@
 .ai_workspace/
+~$*
+*.tmp
+__pycache__/
+*.pyc
+.idea/
+.vscode/
